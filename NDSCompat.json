@@ -1360,6 +1360,15 @@
       "notes": "Works perfectly, surprisingly fun game"
     },
     {
+       "rendersize": null,
+      "game_name": "Magician's Quest: Mysterious Times",
+      "game_region": "USA",
+      "base_name": "Mario Party DS",
+      "base_region": "USA",
+      "status": 2,
+      "notes": "None"
+    },
+    {
       "rendersize": null,
       "game_name": "Mario & Luigi Bowser's Inside Story",
       "game_region": "USA",
@@ -2881,4 +2890,5 @@
       "notes": "None"
     }
   ]
+
 }
